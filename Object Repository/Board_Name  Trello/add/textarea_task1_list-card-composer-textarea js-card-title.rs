@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_task1_list-card-composer-textarea js-card-title</name>
+   <tag></tag>
+   <elementGuidId>e65d8abc-957f-41e3-a25c-3f79119e0973</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='board']/div/div/div[2]/div/div/div/textarea</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>textarea.list-card-composer-textarea.js-card-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>list-card-composer-textarea js-card-title</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Enter a title for this card…</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;board&quot;)/div[@class=&quot;js-list list-wrapper&quot;]/div[@class=&quot;list js-list-content&quot;]/div[@class=&quot;list-cards u-fancy-scrollbar u-clearfix js-list-cards js-sortable ui-sortable&quot;]/div[@class=&quot;card-composer&quot;]/div[@class=&quot;list-card js-composer&quot;]/div[@class=&quot;list-card-details u-clearfix&quot;]/textarea[@class=&quot;list-card-composer-textarea js-card-title&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='board']/div/div/div[2]/div/div/div/textarea</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/div/div/textarea</value>
+   </webElementXpaths>
+</WebElementEntity>
